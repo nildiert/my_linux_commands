@@ -5,7 +5,7 @@ alias delete_caca='./delete_caca'
 alias permissions='./permissions'
 alias transfer='./transfer'
 alias configure='./configure'
-alias transfer='./connect'
+alias connect='./connect'
 
 #Emacs configuration
 cp .emacs ~/.emacs
