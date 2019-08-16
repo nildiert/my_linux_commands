@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 #Commands configuration
-alias test_echo='./echo_test'
-alias delete_caca='./delete_caca'
-alias permissions='./permissions'
-alias transfer='./transfer'
-alias configure='./configure'
-alias connect='./connect'
+alias test_echo='~/my_linux_commands/echo_test'
+alias delete_caca='~/my_linux_commands/delete_caca'
+alias permissions='~/my_linux_commands/permissions'
+alias transfer='~/my_linux_commands/transfer'
+alias configure='~/my_linux_commands/configure'
+alias connect='~/my_linux_commands/connect'
+
+
 
 #Emacs configuration
 cp .emacs ~/.emacs
