@@ -1,8 +1,15 @@
 #!/usr/bin/env bash
+#Commands configuration
 alias test_echo='./echo_test'
 alias delete_caca='./delete_caca'
 alias permissions='./permissions'
 alias transfer='./transfer'
 alias configure='./configure'
 alias transfer='./connect'
+
+#Emacs configuration
 cp .emacs ~/.emacs
+
+#Git configuration
+git config --global user.name "nildiert"
+git config --global user.email niljordan23@gmail.com
