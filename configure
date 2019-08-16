@@ -5,3 +5,4 @@ alias permissions='./permissions'
 alias transfer='./transfer'
 alias configure='./configure'
 alias transfer='./connect'
+cp .emacs ~/.emacs
