@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+alias test_echo='./echo_test'
+alias delete_caca='./delete_caca'
+alias permissions='./permissions'
+alias transfer='./transfer'
+alias configure='./configure'
+alias transfer='./connect'
